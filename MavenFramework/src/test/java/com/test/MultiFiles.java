@@ -17,7 +17,7 @@ public class MultiFiles {
 	WebDriver driver;
 	
 	
-	@BeforeClass
+	@BeforeMethod
 	public void Initalization() throws InterruptedException
 	{
 
@@ -74,7 +74,7 @@ public class MultiFiles {
 		
 	}
 	
-	@AfterClass
+	@AfterMethod
 	public void Close()
 	{
 		driver.quit();
