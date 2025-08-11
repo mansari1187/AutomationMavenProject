@@ -1,0 +1,6 @@
+Our code should go to GIt repo
+
+
+Jenkins --- Git repo
+
+Jenkins - Pom.xml -- Testng.xml_file -- Test script --- Main Functionality--- Page object model

@@ -1,0 +1,24 @@
+testng - Unit Testing Framework -- Developers
+
+Code Base Testing
+
+TestNg- TDD Framework - Test driven devleopment framework -- TestNg.xml
+
+
+when we run Testng - no need to use PSVM -- we will use annotation - @Test (Mandatory)
+
+Main Method can we override :- No
+
+@Test - that is function from the testng library - PSVM
+PSVM
+
+
+@BeforeMethod -- It will execute before every @Test
+@AfterMethod -- it will execute after every @Test
+
+
+@BM
+@Test
+@TEst
+@TEst
+@Am
